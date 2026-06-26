@@ -1,4 +1,4 @@
 <?php
-echo "Hola usuario";
+echo "Hola usuaris";
 echo "Bienvenido a la página de usuarios";
 ?>
